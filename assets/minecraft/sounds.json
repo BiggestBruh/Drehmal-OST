@@ -1,0 +1,465 @@
+{
+    "ambient.cave": {
+        "sounds": [
+            "drehmal:ambience/whisper1",
+            "drehmal:ambience/whisper2"
+        ]
+    },
+    "music.dragon": {
+        "sounds": [
+            {
+                "name": "music/game/end/boss",
+                "stream": true,
+                "weight": 3
+            },
+            {
+                "name": "drehmal:music/foundry",
+                "stream": true,
+                "weight": 3
+            },
+            {
+                "name": "drehmal:music/ossein",
+                "stream": true,
+                "weight": 3
+            },
+            {
+                "name": "drehmal:music/bernice",
+                "stream": true,
+                "weight": 3
+            },
+            {
+                "name": "drehmal:music/run1",
+                "stream": true,
+                "weight": 1
+            },
+            {
+                "name": "drehmal:music/run2",
+                "stream": true,
+                "weight": 1
+            },
+            {
+                "name": "drehmal:music/run3",
+                "stream": true,
+                "weight": 1
+            },
+            {
+                "name": "drehmal:music/ultvahovad",
+                "stream": true,
+                "weight": 3
+            },
+            {
+                "name": "drehmal:music/emissary",
+                "stream": true,
+                "weight": 3
+            },
+            {
+                "name": "drehmal:music/tethlaen",
+                "stream": true,
+                "weight": 3
+            }
+        ],
+        "replace": true
+    },
+    "music.end": {
+        "sounds": [
+            {
+                "name": "drehmal:music/terminus",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/hotv_ambient",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/credits",
+                "stream": true
+            }
+        ]
+    },
+    "music.game": {
+        "sounds": [
+            {
+                "name": "drehmal:music/ataraxia",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/blissful",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/dejavu",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/ethereal",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/fragments",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/hiraeth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/lucid",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/monuments",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/polaris",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/resolute",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/serenity",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/undergrowth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/wandering",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/avsal",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/nascence",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/kinetic",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/gloom",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/tribute",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/ytaj",
+                "stream": true,
+                "weight": 100,
+                "preload": true
+            },
+            {
+                "name": "drehmal:music/naharja",
+                "stream": true
+            }
+        ]
+    },
+    "music.menu": {
+        "sounds": [
+            {
+                "name": "drehmal:music/poverture",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.basalt_deltas": {
+        "sounds": [
+            {
+                "name": "drehmal:music/burntpalace",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/rhaveloth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/welcome_aboard",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/imponderous",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/core",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.crimson_forest": {
+        "sounds": [
+            {
+                "name": "drehmal:music/burntpalace",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/rhaveloth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/welcome_aboard",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/imponderous",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/core",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.nether_wastes": {
+        "sounds": [
+            {
+                "name": "drehmal:music/burntpalace",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/rhaveloth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/welcome_aboard",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/imponderous",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/core",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.soul_sand_valley": {
+        "sounds": [
+            {
+                "name": "drehmal:music/burntpalace",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/rhaveloth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/welcome_aboard",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/imponderous",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/core",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.warped_forest": {
+        "sounds": [
+            {
+                "name": "drehmal:music/burntpalace",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/rhaveloth",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/welcome_aboard",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/imponderous",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/core",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.badlands": {
+        "sounds": [
+            {
+                "name": "drehmal:music/athrah",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/ebonrun",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/tharxax",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.bamboo_jungle": {
+        "sounds": [
+            {
+                "name": "drehmal:music/mohta",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.cherry_grove": {
+        "sounds": [
+            {
+                "name": "drehmal:music/sahd",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.deep_dark": {
+        "sounds": [
+            {
+                "name": "drehmal:music/yav_outside",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/yav_inside",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/resonant_halls",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.desert": {
+        "sounds": [
+            {
+                "name": "drehmal:music/okeke",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/athrah",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.dripstone_caves": {
+        "sounds": [
+            {
+                "name": "drehmal:music/exodus",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.flower_forest": {
+        "sounds": [
+            {
+                "name": "drehmal:music/dusps",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.forest": {
+        "sounds": [
+            {
+                "name": "drehmal:music/drabyel",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/nimahj",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/gozak",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.frozen_peaks": {
+        "sounds": [
+            {
+                "name": "drehmal:music/mossfield",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/highfall",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.grove": {
+        "sounds": [
+            {
+                "name": "drehmal:music/highfall",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.jagged_peaks": {
+        "sounds": [
+            {
+                "name": "drehmal:music/mossfield",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.jungle": {
+        "sounds": [
+            {
+                "name": "drehmal:music/firteid",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.meadow": {
+        "sounds": [
+            {
+                "name": "drehmal:music/kiln",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.snowy_slopes": {
+        "sounds": [
+            {
+                "name": "drehmal:music/highfall",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.sparse_jungle": {
+        "sounds": [
+            {
+                "name": "drehmal:music/mohta",
+                "stream": true
+            }
+        ]
+    },
+    "music.overworld.stony_peaks": {
+        "sounds": [
+            {
+                "name": "drehmal:music/mossfield",
+                "stream": true
+            }
+        ]
+    },
+    "music.under_water": {
+        "sounds": [
+            {
+                "name": "drehmal:music/omen",
+                "stream": true
+            },
+            {
+                "name": "drehmal:music/quantum",
+                "stream": true
+            }
+        ]
+    }
+}
