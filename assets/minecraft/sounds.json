@@ -152,9 +152,7 @@
             },
             {
                 "name": "drehmal:music/ytaj",
-                "stream": true,
-                "weight": 100,
-                "preload": true
+                "stream": true
             },
             {
                 "name": "drehmal:music/naharja",
